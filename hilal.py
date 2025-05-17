@@ -12,7 +12,7 @@ import os
 class HilalObserverApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Aplikasi Pengamatan Hilal")
+        self.root.title("Aplikasi Pengamatan Hilal AdiDam")
         
         # Variabel pengaturan
         self.greyscale = False
